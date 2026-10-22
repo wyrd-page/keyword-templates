@@ -1,0 +1,24 @@
+Keyword,URL,Description,Category
+!namespace,mkt,,
+!title,Marketing teams,,
+!intro,"Type > and Space, then a keyword, in the address bar. Replace every example.com address with your own.",,
+!category,Measure,,
+!category,Campaigns,,
+!category,Content,,
+!category,Brand,,
+ga,https://analytics.google.com,Google Analytics,Measure
+gsc,https://search.google.com/search-console,Google Search Console,Measure
+trends,https://trends.google.com/trends/explore?q=%s,Google Trends for your words,Measure
+dash,https://example.com/dashboards/marketing,Placeholder: The marketing dashboard,Measure
+gads,https://ads.google.com,Google Ads,Campaigns
+meta,https://business.facebook.com,Meta Business Suite,Campaigns
+liads,https://www.linkedin.com/campaignmanager/,LinkedIn Campaign Manager,Campaigns
+utm,https://ga-dev-tools.google/campaign-url-builder/,Campaign URL (UTM) builder,Campaigns
+brief,https://example.com/templates/campaign-brief,Placeholder: The campaign brief template,Campaigns
+content,https://example.com/content-calendar,Placeholder: The content calendar,Content
+social,https://example.com/social/scheduler,Placeholder: The social scheduling tool,Content
+blog,https://example.com/cms/posts,Placeholder: The blog and website editor,Content
+canva,https://www.canva.com,Canva,Brand
+brand,https://example.com/brand,"Placeholder: Brand guidelines, logos and colours: the link everyone asks for",Brand
+presskit,https://example.com/press,Placeholder: The press kit,Brand
+logos,@brand,Another name for brand,Brand

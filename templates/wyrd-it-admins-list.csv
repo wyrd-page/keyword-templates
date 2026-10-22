@@ -1,0 +1,26 @@
+Keyword,URL,Description,Category
+!namespace,it,,
+!title,IT admins,,
+!intro,"Type > and Space, then a keyword, in the address bar. Replace every example.com address with your own.",,
+!category,Consoles,,
+!category,Look-ups,,
+!category,Service desk,,
+!category,Operations,,
+gadmin,https://admin.google.com,Google Admin console,Consoles
+m365,https://admin.microsoft.com,Microsoft 365 admin center,Consoles
+entra,https://entra.microsoft.com,"Microsoft Entra admin center: users, groups and sign-ins",Consoles
+intune,https://intune.microsoft.com,Microsoft Intune admin center: devices,Consoles
+azure,https://portal.azure.com,Azure portal,Consoles
+aws,https://console.aws.amazon.com,AWS Management Console,Consoles
+cve,https://nvd.nist.gov/vuln/detail/%s,"A vulnerability by its CVE ID, in the US National Vulnerability Database",Look-ups
+dns,https://dns.google/query?name=%s,A domain’s DNS records (Google Public DNS),Look-ups
+policies,https://chromeenterprise.google/policies/,Chrome Enterprise policy list,Look-ups
+ticket,https://example.com/helpdesk/ticket/%s,Placeholder: A helpdesk ticket by number,Service desk
+queue,https://example.com/helpdesk/queue,Placeholder: The team’s ticket queue,Service desk
+asset,https://example.com/assets/search?q=%s,Placeholder: Find a device in the asset inventory,Service desk
+reset,https://example.com/password-reset,Placeholder: Self-service password reset: the page to send people to,Service desk
+runbook,https://example.com/wiki/runbooks/search?q=%s,Placeholder: Search the runbooks,Operations
+oncall,https://example.com/oncall,Placeholder: Who is on call,Operations
+status,https://example.com/status,Placeholder: The company status page,Operations
+changes,https://example.com/change-calendar,Placeholder: The change calendar,Operations
+admin,@gadmin,Another name for gadmin,Consoles

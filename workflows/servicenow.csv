@@ -1,0 +1,3 @@
+Keyword,URL,Description,Category
+inc,https://YOURCOMPANY.service-now.com/incident.do?sysparm_query=number=%s,An incident by its number (type: > inc INC0012345),ServiceNow
+ritm,https://YOURCOMPANY.service-now.com/sc_req_item.do?sysparm_query=number=%s,A requested item by its number (type: > ritm RITM0010042),ServiceNow

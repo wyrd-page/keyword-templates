@@ -1,0 +1,23 @@
+Keyword,URL,Description,Category
+!namespace,team,,
+!title,Teams in a larger company,,
+!intro,"Type > and Space, then a keyword, in the address bar. Replace every example.com address with your own.",,
+!category,Daily,,
+!category,Work,,
+!category,Knowledge,,
+!category,Operations,,
+standup,https://example.com/team/board | https://example.com/team/standup-notes,Opens the board and the stand-up notes together,Daily
+board,https://example.com/team/board,Placeholder: This sprint’s board,Daily
+notes,https://example.com/team/standup-notes,Placeholder: Stand-up notes,Daily
+cal,https://example.com/team/calendar,Placeholder: The team calendar,Daily
+tickets,https://example.com/tickets/%s,Placeholder: A ticket by number,Work
+roadmap,https://example.com/team/roadmap,Placeholder: The team’s roadmap,Work
+okrs,https://example.com/team/okrs,Placeholder: This quarter’s goals,Work
+retro,https://example.com/team/retro,Placeholder: The retrospective board,Work
+design,https://example.com/design/files,Placeholder: The design files,Work
+wiki,https://example.com/team/wiki/search?q=%s,Placeholder: Search the team wiki,Knowledge
+decisions,https://example.com/team/decisions,Placeholder: The decision log,Knowledge
+oncall,https://example.com/team/oncall,Placeholder: Who is on call this week,Operations
+runbook,https://example.com/team/runbooks,Placeholder: The team’s runbooks,Operations
+deploys,https://example.com/team/deploys,Placeholder: Recent deploys,Operations
+docs,@wiki,Another name for wiki,Knowledge

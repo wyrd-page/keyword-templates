@@ -1,0 +1,90 @@
+{
+  "name": "HR and People teams: Wyrd keywords",
+  "intro": "A People or HR team, in two ways: a list of its own tools (the HR system, the applicant tracker, onboarding), and the company-wide answers to the questions HR hears every week, given to everyone as keywords.. Entries without an address are for you to fill in.",
+  "entries": [
+    {
+      "keyword": "leave",
+      "url": "",
+      "description": "Request leave and see your balance",
+      "category": "For everyone"
+    },
+    {
+      "keyword": "payroll",
+      "url": "",
+      "description": "Payslips and pay details",
+      "category": "For everyone"
+    },
+    {
+      "keyword": "benefits",
+      "url": "",
+      "description": "The benefits portal",
+      "category": "For everyone"
+    },
+    {
+      "keyword": "handbook",
+      "url": "",
+      "description": "The employee handbook",
+      "category": "For everyone"
+    },
+    {
+      "keyword": "policy",
+      "url": "",
+      "description": "Search the HR policies (the words after the keyword go where %s is)",
+      "category": "For everyone"
+    },
+    {
+      "keyword": "people",
+      "url": "",
+      "description": "Find a colleague in the directory",
+      "category": "For everyone"
+    },
+    {
+      "keyword": "org",
+      "url": "",
+      "description": "The org chart",
+      "category": "For everyone"
+    },
+    {
+      "keyword": "expenses",
+      "url": "",
+      "description": "Submit an expense claim",
+      "category": "For everyone"
+    },
+    {
+      "keyword": "jobs",
+      "url": "",
+      "description": "Open roles on the careers page (and the referral form)",
+      "category": "For everyone"
+    },
+    {
+      "keyword": "hris",
+      "url": "",
+      "description": "The HR system",
+      "category": "HR team"
+    },
+    {
+      "keyword": "ats",
+      "url": "",
+      "description": "The applicant tracking system",
+      "category": "HR team"
+    },
+    {
+      "keyword": "candidate",
+      "url": "https://www.linkedin.com/search/results/people/?keywords=%s",
+      "description": "Look someone up on LinkedIn",
+      "category": "HR team"
+    },
+    {
+      "keyword": "onboard",
+      "url": "",
+      "description": "The onboarding checklist for new starters",
+      "category": "HR team"
+    },
+    {
+      "keyword": "offboard",
+      "url": "",
+      "description": "The leaver checklist",
+      "category": "HR team"
+    }
+  ]
+}

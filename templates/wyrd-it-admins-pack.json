@@ -1,0 +1,108 @@
+{
+  "name": "IT admins: Wyrd keywords",
+  "intro": "An IT or platform team that lives in admin consoles, and the person who decides how the rest of the company gets its links. Entries without an address are for you to fill in.",
+  "entries": [
+    {
+      "keyword": "gadmin",
+      "url": "https://admin.google.com",
+      "description": "Google Admin console",
+      "category": "Consoles"
+    },
+    {
+      "keyword": "m365",
+      "url": "https://admin.microsoft.com",
+      "description": "Microsoft 365 admin center",
+      "category": "Consoles"
+    },
+    {
+      "keyword": "entra",
+      "url": "https://entra.microsoft.com",
+      "description": "Microsoft Entra admin center: users, groups and sign-ins",
+      "category": "Consoles"
+    },
+    {
+      "keyword": "intune",
+      "url": "https://intune.microsoft.com",
+      "description": "Microsoft Intune admin center: devices",
+      "category": "Consoles"
+    },
+    {
+      "keyword": "azure",
+      "url": "https://portal.azure.com",
+      "description": "Azure portal",
+      "category": "Consoles"
+    },
+    {
+      "keyword": "aws",
+      "url": "https://console.aws.amazon.com",
+      "description": "AWS Management Console",
+      "category": "Consoles"
+    },
+    {
+      "keyword": "cve",
+      "url": "https://nvd.nist.gov/vuln/detail/%s",
+      "description": "A vulnerability by its CVE ID, in the US National Vulnerability Database",
+      "category": "Look-ups"
+    },
+    {
+      "keyword": "dns",
+      "url": "https://dns.google/query?name=%s",
+      "description": "A domain’s DNS records (Google Public DNS)",
+      "category": "Look-ups"
+    },
+    {
+      "keyword": "policies",
+      "url": "https://chromeenterprise.google/policies/",
+      "description": "Chrome Enterprise policy list",
+      "category": "Look-ups"
+    },
+    {
+      "keyword": "ticket",
+      "url": "",
+      "description": "A helpdesk ticket by number",
+      "category": "Service desk"
+    },
+    {
+      "keyword": "queue",
+      "url": "",
+      "description": "The team’s ticket queue",
+      "category": "Service desk"
+    },
+    {
+      "keyword": "asset",
+      "url": "",
+      "description": "Find a device in the asset inventory",
+      "category": "Service desk"
+    },
+    {
+      "keyword": "reset",
+      "url": "",
+      "description": "Self-service password reset: the page to send people to",
+      "category": "Service desk"
+    },
+    {
+      "keyword": "runbook",
+      "url": "",
+      "description": "Search the runbooks",
+      "category": "Operations"
+    },
+    {
+      "keyword": "oncall",
+      "url": "",
+      "description": "Who is on call",
+      "category": "Operations"
+    },
+    {
+      "keyword": "status",
+      "url": "",
+      "description": "The company status page",
+      "category": "Operations"
+    },
+    {
+      "keyword": "changes",
+      "url": "",
+      "description": "The change calendar",
+      "category": "Operations"
+    }
+  ]
+}

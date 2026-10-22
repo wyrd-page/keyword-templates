@@ -1,0 +1,3 @@
+Keyword,URL,Description,Category
+order,https://admin.shopify.com/store/STORE/orders?query=%s,"Orders, searched by number (type: > order 10492)",Shopify
+customer,https://admin.shopify.com/store/STORE/customers?query=%s,"Customers, searched by name or email (type: > customer maya@northwind.example)",Shopify

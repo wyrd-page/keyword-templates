@@ -1,0 +1,4 @@
+Keyword,URL,Description,Category
+ups,https://www.ups.com/track?loc=en_US&tracknum=%s,A UPS parcel (type: > ups 1Z999AA10123456784),Parcel tracking
+fedex,https://www.fedex.com/fedextrack/?trknbr=%s,A FedEx parcel (type: > fedex 748912345678),Parcel tracking
+usps,https://tools.usps.com/go/TrackConfirmAction?tLabels=%s,A USPS parcel (type: > usps 9400100000000000000000),Parcel tracking

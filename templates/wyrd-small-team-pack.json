@@ -1,0 +1,66 @@
+{
+  "name": "Small teams: Wyrd keywords",
+  "intro": "A team of up to 30 people, where Wyrd is free. Entries without an address are for you to fill in.",
+  "entries": [
+    {
+      "keyword": "handbook",
+      "url": "",
+      "description": "The team handbook or intranet page",
+      "category": "Team"
+    },
+    {
+      "keyword": "roadmap",
+      "url": "",
+      "description": "This year’s roadmap",
+      "category": "Team"
+    },
+    {
+      "keyword": "board",
+      "url": "",
+      "description": "This week’s board",
+      "category": "Team"
+    },
+    {
+      "keyword": "cal",
+      "url": "",
+      "description": "The team calendar",
+      "category": "Team"
+    },
+    {
+      "keyword": "tickets",
+      "url": "",
+      "description": "A ticket by number (the words after the keyword go where %s is)",
+      "category": "Work"
+    },
+    {
+      "keyword": "drive",
+      "url": "",
+      "description": "The shared drive folder",
+      "category": "Work"
+    },
+    {
+      "keyword": "chat",
+      "url": "",
+      "description": "The team’s chat channel",
+      "category": "Work"
+    },
+    {
+      "keyword": "expenses",
+      "url": "",
+      "description": "Submit an expense",
+      "category": "Work"
+    },
+    {
+      "keyword": "wiki",
+      "url": "",
+      "description": "Search the team wiki",
+      "category": "Docs"
+    },
+    {
+      "keyword": "onboarding",
+      "url": "",
+      "description": "Start here: the page for new people",
+      "category": "Docs"
+    }
+  ]
+}

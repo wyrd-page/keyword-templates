@@ -1,0 +1,96 @@
+{
+  "name": "Marketing teams: Wyrd keywords",
+  "intro": "A marketing or growth team that moves between a dozen tools all day, and the brand and campaign links the rest of the company keeps asking for.. Entries without an address are for you to fill in.",
+  "entries": [
+    {
+      "keyword": "ga",
+      "url": "https://analytics.google.com",
+      "description": "Google Analytics",
+      "category": "Measure"
+    },
+    {
+      "keyword": "gsc",
+      "url": "https://search.google.com/search-console",
+      "description": "Google Search Console",
+      "category": "Measure"
+    },
+    {
+      "keyword": "trends",
+      "url": "https://trends.google.com/trends/explore?q=%s",
+      "description": "Google Trends for your words",
+      "category": "Measure"
+    },
+    {
+      "keyword": "dash",
+      "url": "",
+      "description": "The marketing dashboard",
+      "category": "Measure"
+    },
+    {
+      "keyword": "gads",
+      "url": "https://ads.google.com",
+      "description": "Google Ads",
+      "category": "Campaigns"
+    },
+    {
+      "keyword": "meta",
+      "url": "https://business.facebook.com",
+      "description": "Meta Business Suite",
+      "category": "Campaigns"
+    },
+    {
+      "keyword": "liads",
+      "url": "https://www.linkedin.com/campaignmanager/",
+      "description": "LinkedIn Campaign Manager",
+      "category": "Campaigns"
+    },
+    {
+      "keyword": "utm",
+      "url": "https://ga-dev-tools.google/campaign-url-builder/",
+      "description": "Campaign URL (UTM) builder",
+      "category": "Campaigns"
+    },
+    {
+      "keyword": "brief",
+      "url": "",
+      "description": "The campaign brief template",
+      "category": "Campaigns"
+    },
+    {
+      "keyword": "content",
+      "url": "",
+      "description": "The content calendar",
+      "category": "Content"
+    },
+    {
+      "keyword": "social",
+      "url": "",
+      "description": "The social scheduling tool",
+      "category": "Content"
+    },
+    {
+      "keyword": "blog",
+      "url": "",
+      "description": "The blog and website editor",
+      "category": "Content"
+    },
+    {
+      "keyword": "canva",
+      "url": "https://www.canva.com",
+      "description": "Canva",
+      "category": "Brand"
+    },
+    {
+      "keyword": "brand",
+      "url": "",
+      "description": "Brand guidelines, logos and colours: the link everyone asks for",
+      "category": "Brand"
+    },
+    {
+      "keyword": "presskit",
+      "url": "",
+      "description": "The press kit",
+      "category": "Brand"
+    }
+  ]
+}

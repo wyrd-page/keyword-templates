@@ -1,0 +1,3 @@
+Keyword,URL,Description,Category
+pay,https://dashboard.stripe.com/payments/%s,A payment by its ID (type: > pay pi_3Q1x7bLkdIwHu7ix),Stripe
+cus,https://dashboard.stripe.com/customers/%s,A customer by its ID (type: > cus cus_Q8n2…),Stripe

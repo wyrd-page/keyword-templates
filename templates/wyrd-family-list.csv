@@ -1,0 +1,23 @@
+Keyword,URL,Description,Category
+!namespace,home,,
+!title,Families and households,,
+!intro,"Type > and Space, then a keyword, in the address bar. Replace every example.com address with your own.",,
+!category,Home,,
+!category,School,,
+!category,Health,,
+!category,Bills,,
+cal,https://calendar.google.com,The family calendar,Home
+photos,https://photos.google.com,The shared family photos,Home
+bins,https://example.com/council/bins,Placeholder: Which bin goes out this week (your council’s page),Home
+groceries,https://example.com/groceries/orders,Placeholder: The weekly grocery order,Home
+recipes,https://example.com/recipes/search?q=%s,Placeholder: Search the family recipes (the words after the keyword go where %s is),Home
+school,https://example.com/school/parents,Placeholder: The school’s parent portal,School
+homework,https://example.com/school/homework,Placeholder: This week’s homework,School
+term,https://example.com/school/term-dates,Placeholder: Term dates and holidays,School
+doctor,https://example.com/clinic/book,Placeholder: Book an appointment with the family doctor,Health
+dentist,https://example.com/dental,Placeholder: The dentist,Health
+pharmacy,https://example.com/pharmacy/repeat,Placeholder: Order a repeat prescription,Health
+power,https://example.com/energy/account,Placeholder: The electricity and gas account,Bills
+water,https://example.com/water/account,Placeholder: The water bill,Bills
+internet,https://example.com/broadband/account,Placeholder: The broadband account,Bills
+appointments,@doctor,Another name for doctor,Health

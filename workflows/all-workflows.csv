@@ -1,0 +1,23 @@
+Keyword,URL,Description,Category
+jira,https://YOURCOMPANY.atlassian.net/browse/%s,A Jira ticket by its key (type: > jira WEB-4182),Jira
+web,https://YOURCOMPANY.atlassian.net/browse/WEB-%s,"A ticket in one project, by number only (use your project key) (type: > web 4182)",Jira
+issue,https://github.com/OWNER/REPO/issues/%s,An issue or pull request by its number (type: > issue 482),GitHub
+pr,https://github.com/OWNER/REPO/pull/%s,A pull request by its number (type: > pr 497),GitHub
+issues,https://github.com/OWNER/REPO/issues?q=%s,Search the repository's issues and pull requests (type: > issues is:open label:bug),GitHub
+wi,https://dev.azure.com/ORG/PROJECT/_workitems/edit/%s,A work item by its ID (type: > wi 4182),Azure DevOps
+inc,https://YOURCOMPANY.service-now.com/incident.do?sysparm_query=number=%s,An incident by its number (type: > inc INC0012345),ServiceNow
+ritm,https://YOURCOMPANY.service-now.com/sc_req_item.do?sysparm_query=number=%s,A requested item by its number (type: > ritm RITM0010042),ServiceNow
+zd,https://YOURCOMPANY.zendesk.com/agent/tickets/%s,A ticket by its number (type: > zd 29101),Zendesk
+zduser,https://YOURCOMPANY.zendesk.com/agent/users/%s,A user by ID (type: > zduser 3810294),Zendesk
+sf,https://YOURCOMPANY.lightning.force.com/lightning/r/Account/%s/view,An account by its ID (type: > sf 0015g00000XyZ12),Salesforce
+opp,https://YOURCOMPANY.lightning.force.com/lightning/r/Opportunity/%s/view,An opportunity by its ID (type: > opp 0065g00000AbC34),Salesforce
+sfid,https://YOURCOMPANY.lightning.force.com/lightning/r/%s/view,Any record by its ID (type: > sfid 0035g00000Qrs56),Salesforce
+hs,https://app.hubspot.com/contacts/HUB_ID/objects/0-1/views/all/list?query=%s,"Contacts, searched by name or email (type: > hs maya@northwind.example)",HubSpot
+deal,https://app.hubspot.com/contacts/HUB_ID/record/0-3/%s,A deal by its ID (type: > deal 15865742643),HubSpot
+pay,https://dashboard.stripe.com/payments/%s,A payment by its ID (type: > pay pi_3Q1x7bLkdIwHu7ix),Stripe
+cus,https://dashboard.stripe.com/customers/%s,A customer by its ID (type: > cus cus_Q8n2…),Stripe
+order,https://admin.shopify.com/store/STORE/orders?query=%s,"Orders, searched by number (type: > order 10492)",Shopify
+customer,https://admin.shopify.com/store/STORE/customers?query=%s,"Customers, searched by name or email (type: > customer maya@northwind.example)",Shopify
+ups,https://www.ups.com/track?loc=en_US&tracknum=%s,A UPS parcel (type: > ups 1Z999AA10123456784),Parcel tracking
+fedex,https://www.fedex.com/fedextrack/?trknbr=%s,A FedEx parcel (type: > fedex 748912345678),Parcel tracking
+usps,https://tools.usps.com/go/TrackConfirmAction?tLabels=%s,A USPS parcel (type: > usps 9400100000000000000000),Parcel tracking

@@ -1,0 +1,36 @@
+{
+  "name": "Everyday search pack",
+  "intro": "Five useful searches to make Wyrd helpful on day one.",
+  "entries": [
+    {
+      "keyword": "g",
+      "url": "https://www.google.com/search?q=%s",
+      "description": "Search the web with Google",
+      "category": "Search"
+    },
+    {
+      "keyword": "yt",
+      "url": "https://www.youtube.com/results?search_query=%s",
+      "description": "Search videos on YouTube",
+      "category": "Search"
+    },
+    {
+      "keyword": "w",
+      "url": "https://en.wikipedia.org/wiki/Special:Search?search=%s",
+      "description": "Search Wikipedia",
+      "category": "Reference"
+    },
+    {
+      "keyword": "maps",
+      "url": "https://www.google.com/maps/search/%s",
+      "description": "Find a place in Google Maps",
+      "category": "Places"
+    },
+    {
+      "keyword": "gh",
+      "url": "https://github.com/search?q=%s",
+      "description": "Search repositories and code on GitHub",
+      "category": "Development"
+    }
+  ]
+}

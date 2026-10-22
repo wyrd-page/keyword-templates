@@ -1,0 +1,84 @@
+{
+  "name": "Teams in a larger company: Wyrd keywords",
+  "intro": "A product, engineering, sales or support team inside an organisation of more than 30 people. Entries without an address are for you to fill in.",
+  "entries": [
+    {
+      "keyword": "board",
+      "url": "",
+      "description": "This sprint’s board",
+      "category": "Daily"
+    },
+    {
+      "keyword": "notes",
+      "url": "",
+      "description": "Stand-up notes",
+      "category": "Daily"
+    },
+    {
+      "keyword": "cal",
+      "url": "",
+      "description": "The team calendar",
+      "category": "Daily"
+    },
+    {
+      "keyword": "tickets",
+      "url": "",
+      "description": "A ticket by number",
+      "category": "Work"
+    },
+    {
+      "keyword": "roadmap",
+      "url": "",
+      "description": "The team’s roadmap",
+      "category": "Work"
+    },
+    {
+      "keyword": "okrs",
+      "url": "",
+      "description": "This quarter’s goals",
+      "category": "Work"
+    },
+    {
+      "keyword": "retro",
+      "url": "",
+      "description": "The retrospective board",
+      "category": "Work"
+    },
+    {
+      "keyword": "design",
+      "url": "",
+      "description": "The design files",
+      "category": "Work"
+    },
+    {
+      "keyword": "wiki",
+      "url": "",
+      "description": "Search the team wiki",
+      "category": "Knowledge"
+    },
+    {
+      "keyword": "decisions",
+      "url": "",
+      "description": "The decision log",
+      "category": "Knowledge"
+    },
+    {
+      "keyword": "oncall",
+      "url": "",
+      "description": "Who is on call this week",
+      "category": "Operations"
+    },
+    {
+      "keyword": "runbook",
+      "url": "",
+      "description": "The team’s runbooks",
+      "category": "Operations"
+    },
+    {
+      "keyword": "deploys",
+      "url": "",
+      "description": "Recent deploys",
+      "category": "Operations"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Keyword,URL,Description,Category
+hs,https://app.hubspot.com/contacts/HUB_ID/objects/0-1/views/all/list?query=%s,"Contacts, searched by name or email (type: > hs maya@northwind.example)",HubSpot
+deal,https://app.hubspot.com/contacts/HUB_ID/record/0-3/%s,A deal by its ID (type: > deal 15865742643),HubSpot

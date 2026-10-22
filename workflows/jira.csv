@@ -1,0 +1,3 @@
+Keyword,URL,Description,Category
+jira,https://YOURCOMPANY.atlassian.net/browse/%s,A Jira ticket by its key (type: > jira WEB-4182),Jira
+web,https://YOURCOMPANY.atlassian.net/browse/WEB-%s,"A ticket in one project, by number only (use your project key) (type: > web 4182)",Jira

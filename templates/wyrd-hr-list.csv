@@ -1,0 +1,22 @@
+Keyword,URL,Description,Category
+!namespace,hr,,
+!title,HR and People teams,,
+!intro,"Type > and Space, then a keyword, in the address bar. Replace every example.com address with your own.",,
+!category,For everyone,,
+!category,HR team,,
+leave,https://example.com/hr/leave,Placeholder: Request leave and see your balance,For everyone
+payroll,https://example.com/hr/payroll,Placeholder: Payslips and pay details,For everyone
+benefits,https://example.com/hr/benefits,Placeholder: The benefits portal,For everyone
+handbook,https://example.com/handbook,Placeholder: The employee handbook,For everyone
+policy,https://example.com/handbook/search?q=%s,Placeholder: Search the HR policies (the words after the keyword go where %s is),For everyone
+people,https://example.com/directory/search?q=%s,Placeholder: Find a colleague in the directory,For everyone
+org,https://example.com/org-chart,Placeholder: The org chart,For everyone
+expenses,https://example.com/expenses,Placeholder: Submit an expense claim,For everyone
+jobs,https://example.com/careers,Placeholder: Open roles on the careers page (and the referral form),For everyone
+hris,https://example.com/hris,Placeholder: The HR system,HR team
+ats,https://example.com/recruiting,Placeholder: The applicant tracking system,HR team
+candidate,https://www.linkedin.com/search/results/people/?keywords=%s,Look someone up on LinkedIn,HR team
+onboard,https://example.com/onboarding/checklist,Placeholder: The onboarding checklist for new starters,HR team
+offboard,https://example.com/offboarding/checklist,Placeholder: The leaver checklist,HR team
+holiday,@leave,Another name for leave,For everyone
+vacation,@leave,Another name for leave,For everyone

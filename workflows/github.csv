@@ -1,0 +1,4 @@
+Keyword,URL,Description,Category
+issue,https://github.com/OWNER/REPO/issues/%s,An issue or pull request by its number (type: > issue 482),GitHub
+pr,https://github.com/OWNER/REPO/pull/%s,A pull request by its number (type: > pr 497),GitHub
+issues,https://github.com/OWNER/REPO/issues?q=%s,Search the repository's issues and pull requests (type: > issues is:open label:bug),GitHub

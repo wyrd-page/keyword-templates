@@ -1,0 +1,90 @@
+{
+  "name": "Families and households: Wyrd keywords",
+  "intro": "A family or a shared house. Entries without an address are for you to fill in.",
+  "entries": [
+    {
+      "keyword": "cal",
+      "url": "https://calendar.google.com",
+      "description": "The family calendar",
+      "category": "Home"
+    },
+    {
+      "keyword": "photos",
+      "url": "https://photos.google.com",
+      "description": "The shared family photos",
+      "category": "Home"
+    },
+    {
+      "keyword": "bins",
+      "url": "",
+      "description": "Which bin goes out this week (your council’s page)",
+      "category": "Home"
+    },
+    {
+      "keyword": "groceries",
+      "url": "",
+      "description": "The weekly grocery order",
+      "category": "Home"
+    },
+    {
+      "keyword": "recipes",
+      "url": "",
+      "description": "Search the family recipes (the words after the keyword go where %s is)",
+      "category": "Home"
+    },
+    {
+      "keyword": "school",
+      "url": "",
+      "description": "The school’s parent portal",
+      "category": "School"
+    },
+    {
+      "keyword": "homework",
+      "url": "",
+      "description": "This week’s homework",
+      "category": "School"
+    },
+    {
+      "keyword": "term",
+      "url": "",
+      "description": "Term dates and holidays",
+      "category": "School"
+    },
+    {
+      "keyword": "doctor",
+      "url": "",
+      "description": "Book an appointment with the family doctor",
+      "category": "Health"
+    },
+    {
+      "keyword": "dentist",
+      "url": "",
+      "description": "The dentist",
+      "category": "Health"
+    },
+    {
+      "keyword": "pharmacy",
+      "url": "",
+      "description": "Order a repeat prescription",
+      "category": "Health"
+    },
+    {
+      "keyword": "power",
+      "url": "",
+      "description": "The electricity and gas account",
+      "category": "Bills"
+    },
+    {
+      "keyword": "water",
+      "url": "",
+      "description": "The water bill",
+      "category": "Bills"
+    },
+    {
+      "keyword": "internet",
+      "url": "",
+      "description": "The broadband account",
+      "category": "Bills"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+Keyword,URL,Description,Category
+!namespace,team,,
+!title,Small teams,,
+!intro,"Type > and Space, then a keyword, in the address bar. Replace every example.com address with your own.",,
+!category,Team,,
+!category,Work,,
+!category,Docs,,
+handbook,https://example.com/handbook,Placeholder: The team handbook or intranet page,Team
+roadmap,https://example.com/roadmap,Placeholder: This year’s roadmap,Team
+board,https://example.com/board,Placeholder: This week’s board,Team
+standup,https://example.com/board | https://example.com/notes,Opens the board and the meeting notes together,Team
+cal,https://example.com/team-calendar,Placeholder: The team calendar,Team
+tickets,https://example.com/tickets/%s,Placeholder: A ticket by number (the words after the keyword go where %s is),Work
+drive,https://example.com/shared-drive,Placeholder: The shared drive folder,Work
+chat,https://example.com/chat/team,Placeholder: The team’s chat channel,Work
+expenses,https://example.com/expenses,Placeholder: Submit an expense,Work
+wiki,https://example.com/wiki/search?q=%s,Placeholder: Search the team wiki,Docs
+onboarding,https://example.com/wiki/onboarding,Placeholder: Start here: the page for new people,Docs
+docs,@wiki,Another name for wiki,Docs
